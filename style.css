@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+}
+.head{
+    font-size: 50px;
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    border-radius: 20px;
+    border: none;
+    background-color: blanchedalmond;
+    font-size: 20px;
+    
+}
+span{
+    font-size: 25px;
+}
